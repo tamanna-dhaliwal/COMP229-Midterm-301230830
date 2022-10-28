@@ -1,7 +1,7 @@
+//  Student # : 301230830 - COMP229 - 28 Oct 2022 - app.js
 import createError from 'http-errors';
 import express from 'express';
 import session from 'express-session';
-import bodyParser from 'body-parser';//get info from html forms
 
 
 // Fix for __dirname using ESM
